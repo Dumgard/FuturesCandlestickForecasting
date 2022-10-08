@@ -1,0 +1,6 @@
+    N_EPOCH     N_ITER      MODEL
+0   4           40          32(lstm)\32\32\out
+1   1           160         32(lstm)\32\32\out
+2   10          16          32(lstm)\32\32\out
+3   8           20          512(lstm)\512\64\out
+4   8           8           512(lst)\512\256(lstm)\256\128(lstm)\128\64\out
